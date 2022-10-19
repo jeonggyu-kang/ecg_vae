@@ -137,3 +137,6 @@ expVAE/src/data
 *.json
 *.ecg
 *.png
+*.pdf
+*.pt
+*.pth
